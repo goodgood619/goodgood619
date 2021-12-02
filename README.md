@@ -4,7 +4,7 @@
 
 ## Online Algorithm 
 
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktgnjftm">
+<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gktgnjftm">
 
 <br/><br/>
 
